@@ -28,7 +28,8 @@
     "ba-satispress/searchwp": "*",
     "ba-satispress/searchwp-live-ajax-search": "*",
     "ba-satispress/stackable-ultimate-gutenberg-blocks-premium": "*",
-    "wpackagist-plugin/wordfence-login-security": "*"
+    "wpackagist-plugin/wordfence-login-security": "*",
+    "wpackagist-plugin/extendify": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
