@@ -1,5 +1,0 @@
-web/app
-web/wp
-vendor/
-auth.json
-.env
